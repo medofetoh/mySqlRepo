@@ -1,0 +1,20 @@
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\bin\Debug\netcoreapp3.1\DAL.dll.config
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Youssef Selem\source\repos\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\USER\Downloads\ExaminationSystem\DAL\bin\Debug\netcoreapp3.1\DAL.dll.config
+C:\Users\USER\Downloads\ExaminationSystem\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\USER\Downloads\ExaminationSystem\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\USER\Downloads\ExaminationSystem\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\USER\Downloads\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\USER\Downloads\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\USER\Downloads\ExaminationSystem\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
