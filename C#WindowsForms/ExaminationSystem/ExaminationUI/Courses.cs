@@ -20,7 +20,8 @@ namespace ExaminationUI
         {
             InitializeComponent();
         }
-
+        
+        
         BindingSource CrsBindingSource, InstBindingSource;
         CourseManager crs = CourseManager.getInstance();
         CoursesList Courses;
