@@ -11,7 +11,7 @@ ELSE
     SELECT 'false' AS UserExists
 END
 ------------------------------------------------------------
---2
+--2 create getExamQuestions table 
 CREATE proc [dbo].[getExamQuestions] @ExamID int
 as
 select  Q.QuestID, Q.QuestType ,Q.QuestBody,Q.Marks
